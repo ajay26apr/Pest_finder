@@ -1,0 +1,4 @@
+Flask
+easyocr
+google-generativeai
+gunicorn
